@@ -12,4 +12,5 @@
 - 🌍 My biggest goal is to use technology to solve real-world problems and make a positive impact on people's lives
 - ⚡ Fun fact: I love playing video games and at the moment I'm obsessed with Valorant! (It changes from time to time...😁)
 
-![analiviapessoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=analiviapessoa&show_icons=true&theme=dracula)
+![analiviapessoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=analiviapessoa&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analiviapessoa&layout=donut)](https://github.com/analiviapessoa/github-readme-stats)
