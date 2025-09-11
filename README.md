@@ -5,7 +5,7 @@
 
 - 👩🏻‍💻 Computer Science student at the Federal University of Pernambuco (UFPE - CIn)
 - ➕ Fascinated by math and logic since I was a kid, coding was such a fun challenge to take!
-- 🌱 I'm now focused on developing my front-end skills
+- 🌱 I'm now focused on developing my full stack skills
 - 🌟 Dream of being a game developer
 - 📝 Always interested in learning and expanding my skills trough academic projects, online courses and personal experiments
 - 💡 My GitHub is a collection of some of my projects! Feel free to take a look at my repositories and check out what I've been working on 
